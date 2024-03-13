@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+현제 문서가 html5 언어 로 작성한 웹 문서라는뜻
+<html lang="kr"></html> 
+문서와 문서끝을 표사
+<head></head>
+웹 브라우저 웹 문서를 해석하는데 필요한 정보 입력
+    <meta charset="UTF-8">
+    <title>Document</title>
+	사이트 제목 이름
+</head>
+<body></body>
+화면 뜨게 하는 코드
+
+h1 ~ 7제목 텍스트 표시
+p 입력테스트 표시
+hr 줄표시
+q " "표시
+<div></div> 블록단위
+mark 마킹
