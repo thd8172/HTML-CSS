@@ -1,0 +1,13 @@
+그러데이션 반복 효과
+선형그라데이션 =repeating
+repeating
+background: repeating-linear-gradient(90deg,#fff,pink 20%);
+background: repeating-linear-gradient(45deg,#ff0,#ff0 10%,black 10%,black 20%);
+background: repeating-radial-gradient(circle,#ff0, red 20%,rgb(12, 44, 85) 10%, rgb(44, 105, 44) 20%);
+
+
+clip 배경색이나 이미지를 어디까지 적용할지 지정
+position 위치지정
+origin 배치할 기준을 지정
+
+
